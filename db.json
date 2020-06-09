@@ -11,20 +11,6 @@
       "jobName": null,
       "date": "0001-01-01T00:00:00",
       "totalEventCount": 10,
-      "skippedEventCount": 0,
-      "percentSkipped": 0
-    },
-    {
-      "vaultId": "00000000-0000-0000-0000-000000000000",
-      "hostName": null,
-      "customerShortName": null,
-      "customerLocation": null,
-      "agentId": "00000000-0000-0000-0000-000000000000",
-      "agentName": null,
-      "jobId": "00000000-0000-0000-0000-000000000000",
-      "jobName": null,
-      "date": "0001-01-01T00:00:00",
-      "totalEventCount": 10,
       "skippedEventCount": 1,
       "percentSkipped": 0.1
     },
@@ -39,8 +25,22 @@
       "jobName": null,
       "date": "0001-01-01T00:00:00",
       "totalEventCount": 10,
-      "skippedEventCount": 3,
-      "percentSkipped": 0.3
+      "skippedEventCount": 0,
+      "percentSkipped": 0
+    },
+    {
+      "vaultId": "00000000-0000-0000-0000-000000000000",
+      "hostName": null,
+      "customerShortName": null,
+      "customerLocation": null,
+      "agentId": "00000000-0000-0000-0000-000000000000",
+      "agentName": null,
+      "jobId": "00000000-0000-0000-0000-000000000000",
+      "jobName": null,
+      "date": "0001-01-01T00:00:00",
+      "totalEventCount": 10,
+      "skippedEventCount": 4,
+      "percentSkipped": 0.4
     }
   ]
 }
