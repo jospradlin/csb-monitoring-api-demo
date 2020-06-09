@@ -10,7 +10,7 @@
       "jobId": "00000000-0000-0000-0000-000000000000",
       "jobName": null,
       "date": "0001-01-01T00:00:00",
-      "totalEventCount": 0,
+      "totalEventCount": 10,
       "skippedEventCount": 0,
       "percentSkipped": 0
     },
@@ -24,9 +24,9 @@
       "jobId": "00000000-0000-0000-0000-000000000000",
       "jobName": null,
       "date": "0001-01-01T00:00:00",
-      "totalEventCount": 0,
-      "skippedEventCount": 0,
-      "percentSkipped": 0
+      "totalEventCount": 10,
+      "skippedEventCount": 1,
+      "percentSkipped": .1
     },
     {
       "vaultId": "00000000-0000-0000-0000-000000000000",
@@ -38,9 +38,9 @@
       "jobId": "00000000-0000-0000-0000-000000000000",
       "jobName": null,
       "date": "0001-01-01T00:00:00",
-      "totalEventCount": 0,
-      "skippedEventCount": 0,
-      "percentSkipped": 0
+      "totalEventCount": 10,
+      "skippedEventCount": 2,
+      "percentSkipped": .2
     }
   ]
 }
