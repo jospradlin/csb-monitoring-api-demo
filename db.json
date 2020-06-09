@@ -39,8 +39,8 @@
       "jobName": null,
       "date": "0001-01-01T00:00:00",
       "totalEventCount": 10,
-      "skippedEventCount": 2,
-      "percentSkipped": 0.2
+      "skippedEventCount": 3,
+      "percentSkipped": 0.3
     }
   ]
 }
