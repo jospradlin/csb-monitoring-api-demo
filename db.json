@@ -26,7 +26,7 @@
       "date": "0001-01-01T00:00:00",
       "totalEventCount": 10,
       "skippedEventCount": 1,
-      "percentSkipped": .1
+      "percentSkipped": 0.1
     },
     {
       "vaultId": "00000000-0000-0000-0000-000000000000",
@@ -40,7 +40,7 @@
       "date": "0001-01-01T00:00:00",
       "totalEventCount": 10,
       "skippedEventCount": 2,
-      "percentSkipped": .2
+      "percentSkipped": 0.2
     }
   ]
 }
